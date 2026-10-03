@@ -1,0 +1,78 @@
+Student Name: Keylan Fralick
+Date: _________________________________
+Assignment Title: Project Exercise 2-1: Designing and Evaluating an AI Agent
+
+README Template: AI Agent Design and Evaluation
+
+This template is designed to guide you through the Project Exercise 2-1: Designing and Evaluating an AI Agent assignment. You will use this to complete the no-code programming tasks below.
+This document serves as a README file that introduces a project by explaining its purpose, setup instructions, and usage details, helping users and collaborators quickly understand what 
+the project does and how to work with it. It also serves as a reference point for future development, troubleshooting, and onboarding new contributors.
+
+
+Task 1: Complete this section and select one of the following scenarios for your AI agent: [Genesis- an AI which helps other use AI and all the features AI has to offer.]
+1. Study Buddy AI
+2. Community Helper AI
+3. Creative Assistant AI
+4. Personal Wellness AI
+5. Smart Retail AI
+
+Task 2: Define the AI agent by brainstorming the answers to the following questions. Add your responses here for Agent Overview:
+
+1. What data does this AI need to collect? [Text, Images, Info about AI, PDF's for files, Web access]
+
+2. How does it interact with users? [Text,responding to Speech,user can see it]
+
+3. What decisions does it make? [answer questions ethically, and instruct people step by step instructions]
+
+4. What is its main goal? [to teach people how to use AI and use AI features]
+
+5. How could it be misused, even if unintentionally? [if people used the knowledge of using Ai in harmful ways like telling it to hack others]
+
+Task 3: Add your flowchart image here from draw.io "No-Code Programming." 
+
+AI Agent logical flowchart: Use markdown and diagrams within [draw.io](https://draw.io/) to create a visual flowchart of your AI agent's core decision-making process. For example to replace with this image, just delete this link then copy and paste your image here. You must do this while in the Readme file as it will convert to a html hyperlink tag.
+<img width="975" height="975" alt="image" src="https://github.com/user-attachments/assets/01b811d7-c17a-4ad7-8137-46b636d85c54" />
+
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22%20id%3D%222AUudyF6jlTO38_Hnf7f%22%3EzVfLdtowEP0aL9PjB%2BaxJATSLPo4h6bpVtiDrYNsuZKMcb%2B%2Bki3jFxBCA80GpCvNSLozuhobzizaPTKUhF%2BoD8SwTX9nOA%2BGbVsDayD%2FFJJrZDwalUjAsK%2BxGljiP6BBU6Mp9oG3JgpKicBJG%2FRoHIMnWhhijGbtaWtK2qsmKIAesPQQ6aMv2BdhiY5ds8Y%2FAw7CamXL1CMRqiZrgIfIp1kDcuaGM2OUirIV7WZAFHsVL6Xd4sjofmMMYnGOwbfN9vlnkJvTX8vpw5w6i%2FTr4G7Q96Idc5FXHDCaxj4oN6bh3GchFrBMkKdGMxl2iYUiIrJnyWZpvUUk1daGPfydqkPeP3NgajFGo0TIRggM6lFtCEzArrETfZhHoBEIlhdmNd9DTW5Wx8aqCNdenLHuVyk40H2kUyPYu67Zkw1N4BvIdK9P5vRJXYAQxxtuqHNW5GFe4uoPEUIzuYLcbazWRmsQeXWVCI7ldbo66daoTbp9NdKH%2F490tKKpKIagTOsVgUidMfaLX54BUxZrmfDybxPTjIAfqMkrxOFqCT%2B5FfeT0m9xpmOi1A8GxP5UKbPseQRxjr02%2F%2B1gHdCTQxwxIEjgbXsfhw6sTb9THIsGZ1aHs%2BHkk9t2wmnKPNB2TZ3tuhq%2F6kogFoDouSpisD%2FT5WGpHt2PEJdm7laP5sFYNRLaPZGvxQpymyhvTEgUk%2Fx4dAfOPgQ6KCOzQ3zp8lzz%2FZV7a3IccOV0XF07OW4gmMtQ1V22uRSQKLHLC%2BdFOysCt6aqEEjLekBQdXrPk1UBwTzcC2pAEbmWRg7NW2mk9V4i%2BUM%2BQKcupLRYYHKiDLvZ9exlvWu%2Fm7q63cft5upaUvkx1PVfXz23UxqPL5S13vNp3VbUbOesEBAiPxvhdUGTn2oJPMVc1svHrtMLEClYl9Vw4zNquE4Rcdd9cM7QJ9mtvy5LpuuPdGf%2BFw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E
+
+Task 4. Add your agents Ethical Evaluation descriptions.
+
+Complete the descriptions below for your AI Agent Design and Ethics Evaluation.
+
+Features	            Agent Task                                      Your Response 
+Scenario Selection    Choose one AI agent scenario           	        [Genesis]
+Agent Task #1	      Helpful/ethical                                   [how to make an AI agent] 
+                      Potentially unethical                             [using the agent to hack or do unethical things]
+Agent Task #2	      Helpful/ethical                                   [how to prompt AI better for more nuanced responses] 
+                      Potentially unethical                             [bypassing safety guidelines with good enough prompt]
+Agent Task #3	      Helpful/ethical                                   [step by step images for instructions for user to follow] 
+Agent Task #4	      Helpful/ethical                                   [adaptive communication style for each indiduval]
+Agent Task #5	      Helpful/ethical                                   [Description]
+Data Use              What data does this AI need to collect?        	[knowledge of AI, knowledge of AI features, user prompt,user speech(for text to speech)]
+User Interaction      How does the AI interact with users?              [User is prompted to ask Question on "Welcome" screen then is given answer, also is given step by step images to follow so as to easily obey the instructions the AI gives]
+Decision-Making       What decisions does it make and how?    	        [answers the user prompts and shows step by step instructions on how to accomplish the goal the user prompts ]
+Main Goal	      What is the AI designed to accomplish?            [to teach others how to use AI and all AI's features]
+Misuse Risk	      How could the AI be misused or misunderstood?     [if people use AI features for things like hacking if they learn how to make an agent which does this]
+
+Task 5: Complete the Ethical AI Principles Evaluation questions for your agent.
+
+Principle:	Does your AI uphold this principle? How or why not?
+Equity over efficiency		[Answering questions as neutral and objective as possible as to most effectively communicate information as possible]
+Transparency and explainability	[enabled a "thinking" mode so the thoughts of the AI can be seen by the user or Me when I evaluate the AI output vs internal thinking.]
+Inclusive design practices	[text to speech so people who have trouble typing and speak into the ai and have it answer that way]
+Historical and social awareness	[understanding everyone has different economic status's and educational backgrounds so to present information in simple possible way unless user gives more advanced questions]
+
+Task 6. Answer the following final discussion questions.
+1. After designing and evaluating your AI agent, what is the most significant ethical challenge you identified? 
+The most significant ethicial challenge is how to faithfully answer questions and be helpful without being harmful or encouraging harmful behavior 
+
+2. How might you mitigate this challenge in a real-world application?
+the best way to mitigate it would be by making disclaimers and warnings ahead of time to the user is told in advance so the user is able to be held accountable
+
+3. What was the most challenging part of this creating the design for this agent? 
+making a diagram about how the AI would operate step by step. following the logic of how it would operate step by step
+
+4. What new insights did you gain about AI ethics and design?
+why AI often denies answering questions even if they are harmless on the surface due to strict safety guidelines to prevent unethical behavior 
+
+
