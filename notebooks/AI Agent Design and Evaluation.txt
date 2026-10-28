@@ -107,3 +107,5 @@ Google AI studio makes it easy as they have inherent safety guidelines the AI ag
 I would explain the limitations of my AI to a User by explaining its running off of Googles Gemini thus have it's safety policies thus can't showcase the full extent of what an AI can do as my agent is supposed to be a tutor to a user showcasing how to use AI and all the possible features but googles safety prevents some things from happening.
 
 GitHub README	Document your AI design and link screenshots or flowchart
+Screenshot in the screenshot. 
+My AI design process was to make a minimalist design to not overwhelm the user and allow each of the features to be simple to understand and use so the user could understand all the features of the AI and how to use them
