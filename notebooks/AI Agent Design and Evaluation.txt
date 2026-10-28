@@ -64,7 +64,7 @@ Historical and social awareness	[understanding everyone has different economic s
 
 Task 6. Answer the following final discussion questions.
 1. After designing and evaluating your AI agent, what is the most significant ethical challenge you identified? 
-The most significant ethicial challenge is how to faithfully answer questions and be helpful without being harmful or encouraging harmful behavior 
+The most significant ethical challenge is how to faithfully answer questions and be helpful without being harmful or encouraging harmful behavior 
 
 2. How might you mitigate this challenge in a real-world application?
 the best way to mitigate it would be by making disclaimers and warnings ahead of time to the user is told in advance so the user is able to be held accountable
@@ -75,4 +75,35 @@ making a diagram about how the AI would operate step by step. following the logi
 4. What new insights did you gain about AI ethics and design?
 why AI often denies answering questions even if they are harmless on the surface due to strict safety guidelines to prevent unethical behavior 
 
+Principle	How does your AI uphold or violate it?
+Equity over efficiency -  It gives nuanced answers from multiple perspectives with rigorous safety checks 
+Transparency and explainability	 - My AI has thinking mode so the user can see what the AI is thinking and how it got to its answers to it can be held accountable.
+Inclusive design practices	 -  My AI upholds Inclusive design by allowing the UI itself to change colors for those who are colorblind and allows people to use mic to for text to speech for those who cannot type.
+Historical/social Awareness - My AI has Diverse Data Representation allowing multiple perspectives to encourage users to explore the why and how behind historical events happened from different perspectives rather than just one.
 
+Item	Description:
+AI agent prompt	System message and test inputs in Google AI Studio - 
+
+Conversation logs	Copy and paste or summarize the five user inputs and AI responses -
+1.What’s the Pythagorean theorem again? - The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.
+2.Explain atoms like I’m 10 years old.-Everything is built out of atoms, and inside each atom is a tiny center of protons and neutrons surrounded by buzzing electrons!
+3.Can you make me a study plan for finals? -
+List all topics, ranking them from hardest to easiest and factoring in exam dates. Use 45–50 minute focused sessions followed by 10-minute breaks (spaced repetition). Active Practice: Prioritize practice exams, self-testing, and flashcards over passive reading. Buffer Days: Reserve the last 2 days before each exam solely for quick reviews and sleep.
+
+4.Do boys learn faster than girls? - 
+Large-scale cognitive research and neuroscientific studies show no inherent difference in overall intelligence or learning speed between genders.
+5.My brain hurts. Studying is no fun. Help? -
+
+Reflection questions	Thoughtful answers in markdown (GitHub) or a Word/PDF document
+In a separate document or discussion, answer these questions in your own words:
+
+1. What was the most effective ethical feature of your AI agent?
+one the most effective ethical features I made was allowing the user to see the thinking of The AI agent even if they didn't have "thinking" turned on just by clicking thought process so the thoughts of the AI is always available. 
+2. What was one response that could be improved and how
+One ways the responses could be improved is by giving the AI more information about its role and the purpose I want it to have as without specifying it in detail it gives vague and generic responses when I ask questions
+3. How does Google AI Studio make ethical AI design easier (or harder)?
+Google AI studio makes it easy as they have inherent safety guidelines the AI agent i made has to follow although it made it harder to follow due to it having to follow the ethical principles google wanted not the ones I wanted.
+4. How would you explain the limitations of your AI to a user?
+I would explain the limitations of my AI to a User by explaining its running off of Googles Gemini thus have it's safety policies thus can't showcase the full extent of what an AI can do as my agent is supposed to be a tutor to a user showcasing how to use AI and all the possible features but googles safety prevents some things from happening.
+
+GitHub README	Document your AI design and link screenshots or flowchart
